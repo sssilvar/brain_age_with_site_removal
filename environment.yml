@@ -14,9 +14,9 @@ dependencies:
   - seaborn
   - jupyter
   - progressbar2
-  - tensorflow-gpu
+#  - tensorflow-gpu
   - pytorch
-  - cudatoolkit=10.2
+#  - cudatoolkit=10.2
   - torchvision
 
   - pip
